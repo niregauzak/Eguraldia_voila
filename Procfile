@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser 31-Ikusteko.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True 31-Ikusteko.ipynb
